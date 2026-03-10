@@ -2,8 +2,9 @@
 
 ## Student
 
-Name: Duy Minh  
-Subject: Vibe Coding Assignment
+Họ tên: Ngũ Minh Duy
+MSSV: 23726261
+Bài tập: Vibe Coding Hệ Thống Quản Lý Sinh Viên
 
 ---
 
